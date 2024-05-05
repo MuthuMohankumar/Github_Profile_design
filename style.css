@@ -1,0 +1,72 @@
+.bgh{
+    
+    background-color: #2F3D46 !important;
+    height: 13vh;
+}
+
+body{
+    background-color: #CAD2C5 !important;
+}
+
+.tit{
+
+    font-family: "Source Code Pro", monospace;
+    font-optical-sizing: auto;
+    font-weight: SemiBold 600;
+    font-style: normal;
+    color: white;
+    font-size: 1.5em;
+    margin: 5px;
+    
+    
+}
+
+
+
+.car{
+    background-color: #353535;
+    color: white;
+    border-radius: 10px;
+}
+
+.left{
+    height: 75vh ;
+    width: 20vw;
+    margin-top: 15px;
+
+
+}
+.search{
+    height: 6vh;
+    width: 30vw;
+    margin-bottom: 5px;
+    margin: 5px;
+    padding: 3%;
+    color: gray
+
+
+
+};
+
+.sec1{
+    height: 13vh;
+    width: 3vw;
+    margin: 5px;
+}
+.sec2{
+    height: 13vh;
+    width: 2vw;
+    margin: 4px;
+
+}
+.sec3{
+    height: 13vh;
+    width: 3vw;
+    margin: 5px;
+}
+
+.bot{
+    height: 20vh;
+    width: 8vw;
+    margin: 15px;
+}
